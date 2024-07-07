@@ -7,7 +7,7 @@
 Provides support for large multi-dimensional arrays and matrices.
 Contains a collection of mathematical functions to operate on these arrays.
 ```import numpy as np```
-</br>
+</br></br>
 
 ##### Pandas:</br>
 Offers data structures like Series and DataFrame for data manipulation and analysis.
