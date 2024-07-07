@@ -11,7 +11,8 @@ Contains a collection of mathematical functions to operate on these arrays.
 
 ##### Pandas:</br>
 Offers data structures like Series and DataFrame for data manipulation and analysis.
-Provides functionalities for reading and writing data, handling missing values, and merging datasets.
+Provides functionalities for reading and writing data, handling missing values, and merging datasets.</br>
+```import pandas as pd```
 </br></br>
 
 ##### Matplotlib:</br>
