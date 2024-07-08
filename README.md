@@ -5,7 +5,7 @@
 
 ##### NumPy:</br>
 Provides support for large multi-dimensional arrays and matrices.
-Contains a collection of mathematical functions to operate on these arrays.
+Contains a collection of mathematical functions to operate on these arrays.</br>
 ```import numpy as np```
 </br></br>
 
@@ -16,7 +16,8 @@ Provides functionalities for reading and writing data, handling missing values, 
 </br></br>
 
 ##### Matplotlib:</br>
-A plotting library for creating static, interactive, and animated visualizations in Python.
+A plotting library for creating static, interactive, and animated visualizations in Python.</br>
+```import matplotlib.pyplot as plt```
 </br></br>
 
 ##### Seaborn:</br>
