@@ -21,7 +21,8 @@ A plotting library for creating static, interactive, and animated visualizations
 </br></br>
 
 ##### Seaborn:</br>
-Built on top of Matplotlib, it provides a high-level interface for drawing attractive and informative statistical graphics.
+Built on top of Matplotlib, it provides a high-level interface for drawing attractive and informative statistical graphics.</br>
+``` import seaborn as sns ```
 </br></br>
 
 ##### Scikit-learn:</br>
