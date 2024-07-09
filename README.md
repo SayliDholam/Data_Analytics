@@ -27,13 +27,16 @@ Built on top of Matplotlib, it provides a high-level interface for drawing attra
 
 ##### Scikit-learn:</br>
 A machine learning library that provides simple and efficient tools for data mining and data analysis.
-Includes algorithms for classification, regression, clustering, and more.
-</br></br>
+Includes algorithms for classification, regression, clustering, and more.</br>
+```from sklearn.model_selection import train_test_split```</br>
+```from sklearn.linear_model import LinearRegression```</br>
+```from sklearn.metrics import mean_squared_error```</br>
+</br>
 
 ##### SciPy:</br>
-Builds on NumPy and provides additional tools for optimization, integration, and other scientific computations.
+Builds on NumPy and provides additional tools for optimization, integration, and other scientific computations.</br>
 </br></br>
 
 ##### Statsmodels:</br>
-Provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests.
+Provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests.</br>
 </br></br>
